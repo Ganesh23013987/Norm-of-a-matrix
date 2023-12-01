@@ -101,7 +101,7 @@ print(Norm_of_matrix)
 ![Alt text](2-norm.png)
 
 ### Infinity Norm of a Matrix
-![Alt text](<infinity matrix-1.png>)
+![Alt text](<infinity matrix.png>)
 
 ## Result
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
