@@ -52,10 +52,7 @@ Print the result
 End program.
 
 ## Program:
-```Python
-# Register No:  Ganesh.D
-# Developed By: 23013987
-
+```
 # 1-Norm of a Matrix
 '''
 Program to find 1-Norm of a matrix.
