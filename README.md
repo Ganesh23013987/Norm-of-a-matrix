@@ -42,7 +42,7 @@ print(Norm_of_matrix)
 
 # Infinity Norm of a Matrix
 '''
-Program to find the infinity of a matix.
+Program to find the infinity norm of a matix.
 Developed by:   Ganesh.D
 RegisterNumber: 23013987
 '''
